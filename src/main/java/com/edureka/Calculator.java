@@ -1,7 +1,6 @@
 package com.edureka;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.applet.*;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
